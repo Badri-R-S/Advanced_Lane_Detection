@@ -118,4 +118,4 @@ For video inputs, the same pipeline has been followed and the output is as follo
 <img src="https://github.com/Badri-R-S/Advanced_Lane_Detection/blob/master/output/video.gif"
 </p>
 
-Link to the full video: 
+Link to the full video: https://drive.google.com/file/d/1T_RyuKg58ZjlHD7lnuOMErl_bvc7LzMN/view?usp=share_link
